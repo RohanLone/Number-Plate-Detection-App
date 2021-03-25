@@ -9,4 +9,4 @@ This project is done using openCV approach only.
 
 
 
-Check other sample from `<https://github.com/RohanLone/Number-Plate-Detection-App/blob/main/Demo/Demo%202.gif>` here.
+Check other sample from [Demo](https://github.com/RohanLone/Number-Plate-Detection-App/tree/main/Demo) folder.
