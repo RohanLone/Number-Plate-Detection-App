@@ -1,0 +1,5 @@
+streamlit>=0.68.0
+opencv>=4.4.0
+numpy>=1.18.1
+pillow>=8.0.0
+imutils>=0.5.3
